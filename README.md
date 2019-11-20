@@ -1,2 +1,9 @@
-# CRUD RESTful APIs with Nodejs and Typecscript
+# CRUD RESTful APIs
+
+## Technologies
+- Node.js
+- TypeScript
+- Express.js
+- MongoDB
+- Mongoose
  
